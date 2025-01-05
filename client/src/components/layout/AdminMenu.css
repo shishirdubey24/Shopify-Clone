@@ -1,0 +1,29 @@
+/* AdminMenu.css */
+
+.admin-menu-container {
+    width: 100%;
+  }
+  
+  .admin-menu-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .admin-menu-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Border between menu items */
+  }
+  
+  .admin-menu-link {
+    text-decoration: none;
+    color: #333; /* Text color */
+    font-size: 16px; /* Font size */
+    display: block;
+    padding: 8px; /* Padding around link text */
+  }
+  
+  .admin-menu-link:hover {
+    background-color: #f4f4f4; /* Background color on hover */
+  }
+  
